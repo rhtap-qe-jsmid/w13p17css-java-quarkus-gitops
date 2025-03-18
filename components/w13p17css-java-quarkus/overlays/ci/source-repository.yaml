@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: w13p17css-java-quarkus-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/w13p17css-java-quarkus
